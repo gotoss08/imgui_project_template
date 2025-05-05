@@ -17,7 +17,7 @@ You can change the backend by modifying the source and build configuration as ne
 
 1. **Clone the repository:**
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/gotoss08/imgui_project_template
    ```
 
 2. **Install dependencies:**
