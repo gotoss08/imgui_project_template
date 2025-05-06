@@ -22,7 +22,7 @@ You can change the backend by modifying the source and build configuration as ne
 ## Getting Started
 
 1. **Clone the repository:**
-   ```https://github.com/gotoss08/imgui_project_template
+   ```
    git clone https://github.com/gotoss08/imgui_project_template
    ```
 
