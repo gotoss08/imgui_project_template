@@ -7,6 +7,12 @@ This is a starter template for projects using [Dear ImGui](https://github.com/oc
 - Pre-configured build system (update as needed)
 - Example ImGui window
 - Easy to extend
+- Uses packaged library versions:
+  - Dear ImGui: 1.91.9b
+  - SDL2: 2.32.4
+  - FreeType: 2.13.3
+- Uses FreeType for text rendering
+- Supports DPI scaling
 
 ## Rendering Backend
 
@@ -16,7 +22,7 @@ You can change the backend by modifying the source and build configuration as ne
 ## Getting Started
 
 1. **Clone the repository:**
-   ```
+   ```https://github.com/gotoss08/imgui_project_template
    git clone https://github.com/gotoss08/imgui_project_template
    ```
 
