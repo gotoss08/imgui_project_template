@@ -4,7 +4,7 @@ This is a starter template for projects using [Dear ImGui](https://github.com/oc
 
 ## Features
 
-- Pre-configured build system (update as needed)
+- Pre-configured build system (CMake)
 - Example ImGui window
 - Easy to extend
 - Uses packaged library versions:
